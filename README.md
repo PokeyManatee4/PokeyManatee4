@@ -10,8 +10,8 @@
 - 🥰 Learning: Css Almost Done Learning Javascript: Not Even Studyed It Yet
 - Stats: Im Good Just Not Happy For Some Reason
 
-Me In A Nutshell WHen Code Dont Work
+# Me In A Nutshell When Code Dont Work
 
-Finger!
+*Finger!*
 
 ![Screenshot 2021-10-06 10 40 15 PM](https://user-images.githubusercontent.com/64691261/136316752-6905100a-e976-497f-93b0-5949d78b1af0.png)
