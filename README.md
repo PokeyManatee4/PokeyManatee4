@@ -10,5 +10,5 @@
 - 🥰 Learning: Css Almost Done Learning Javascript: Not Even Studyed It Yet
 - Stats: Im Good Just Not Happy For Some Reason
 
-# Me When Im Codeing And Im Done With My Codeing Session This Is My Computers After
+# Me When Im Coding And Im Done With My Coding Session This Is My Computers After
 ![download](https://user-images.githubusercontent.com/64691261/153074153-dc5ea173-f3a4-48ac-a088-e201d865dde2.jpeg)
