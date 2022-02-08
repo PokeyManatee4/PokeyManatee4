@@ -10,8 +10,5 @@
 - 🥰 Learning: Css Almost Done Learning Javascript: Not Even Studyed It Yet
 - Stats: Im Good Just Not Happy For Some Reason
 
-# Me In A Nutshell When Code Dont Work
-
-*Finger!*
-
-![Screenshot 2021-10-06 10 40 15 PM](https://user-images.githubusercontent.com/64691261/136316752-6905100a-e976-497f-93b0-5949d78b1af0.png)
+# Me When Im Codeing And Im Done With My Codeing Session This Is My Computers After
+![download](https://user-images.githubusercontent.com/64691261/153074153-dc5ea173-f3a4-48ac-a088-e201d865dde2.jpeg)
