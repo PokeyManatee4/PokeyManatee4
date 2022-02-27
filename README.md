@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...Lan-don Cates
 - ⚡ Fun fact: ...If Your Happy With My Web Apps Then Im Happy Too
 - 🥰 Learning: Css Almost Done Learning Javascript: Not Even Studyed It Yet
-- 😇 My Stack: CSS, HTML, yaml, c, c++, python, make, cmake
+- 😇 My Stack: CSS, HTML, Yaml, C, C++, Python, Make, Cmake, Lua
 
 # Me When Im Coding And Im Done With My Coding Session This Is My Computers After
 ![download](https://user-images.githubusercontent.com/64691261/153074153-dc5ea173-f3a4-48ac-a088-e201d865dde2.jpeg)
