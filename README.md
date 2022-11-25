@@ -9,7 +9,5 @@
 - 😄 Pronouns: ...Lan-don Cates
 - ⚡ Fun fact: ...If Your Happy With My Web Apps Then Im Happy Too
 - 🥰 Learning: ... Css Almost Done Learning Javascript: Not Even Studyed It Yet
-- 😇 My Stack: ... [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PokeyManatee4&theme=tokyonight)](https://github.com/PokeyManatee4)
-
-# Me When Im Coding And Im Done With My Coding Session This Is My Computers After
-![download](https://user-images.githubusercontent.com/64691261/153074153-dc5ea173-f3a4-48ac-a088-e201d865dde2.jpeg)
+- 😇 My Stack: ... [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PokeyManatee4&theme=tokyonight)](https://github.com/PokeyManatee4)![31uDBikBTNL _AC_SY780_](https://user-images.githubusercontent.com/64691261/204043763-3028829f-5f3b-41af-a017-50f71556d0ef.jpg)
+![cover8](https://user-images.githubusercontent.com/64691261/204043764-cbf58739-87eb-4571-82c3-b022e097479e.jpg)
