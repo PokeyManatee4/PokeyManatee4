@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Anything Wii U Related
 - 🤔 I’m looking for help with ... My code
 - 💬 Ask me about ...What Do I Play On
-- 📫 How to reach me: ... Using My Email lc67846@fortsmithschools.org
+- 📫 How to reach me: ... Using Discord
 - 😄 Pronouns: ...Lan-don Cates
 - ⚡ Fun fact: ... Im bad at node JS
 - 🥰 Learning: ... NodeJS and databasing with a hint of networking
