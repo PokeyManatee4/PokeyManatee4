@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... My code
 - 💬 Ask me about ...What Do I Play On
 - 📫 How to reach me: ... Using Discord
-- 😄 Pronouns: ...Lan-don Cates
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im bad at node JS
 - 🥰 Learning: ... NodeJS and databasing with a hint of networking
 - 😇 My Stack: ... [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PokeyManatee4&theme=tokyonight)](https://github.com/PokeyManatee4)
